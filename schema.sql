@@ -19,3 +19,5 @@ CREATE TABLE orders (
 );
 
 
+-- select count(*) from customers;
+-- select count(*) from orders;
